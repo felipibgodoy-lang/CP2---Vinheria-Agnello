@@ -27,10 +27,9 @@ Este projeto dá continuidade à Vinharia Agnello (CP01), evoluindo o sistema de
 
 ## 🔗 Links
 
-- 📁 Repositório: `https://github.com/seu-usuario/vinheria-agnello-checkpoint02`
-- 🌐 GitHub Pages: `https://seu-usuario.github.io/vinheria-agnello-checkpoint02`
+- 📁 Repositório: https://github.com/felipibgodoy-lang/CP2---Vinheria-Agnello
+- 🌐 GitHub Pages: https://felipibgodoy-lang.github.io/CP2---Vinheria-Agnello/
 
-> Substitua os links acima pelos seus após publicar no GitHub.
 
 ---
 
